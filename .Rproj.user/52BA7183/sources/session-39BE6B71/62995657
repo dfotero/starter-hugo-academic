@@ -1,26 +1,24 @@
 {
-    "id": "115BBE6F",
-    "path": "~/GitHub/academic-kickstart/content/publication/201504EJOR/index.md",
+    "id": "62995657",
+    "path": "~/GitHub/academic-kickstart/content/publication/201909EJOR/index.md",
     "project_path": null,
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1665617379999.0,
+    "created": 1665618091329.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "69,0",
-        "scrollLine": "35"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1601254096,
+    "lastKnownWriteTime": 1601253948,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1601254096,
+    "last_content_update": 1601253948,
     "read_only": false,
     "read_only_alternatives": []
 }
