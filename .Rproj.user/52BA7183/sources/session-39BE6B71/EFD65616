@@ -1,26 +1,26 @@
 {
-    "id": "D5954C78",
-    "path": "~/GitHub/starter-hugo-academic/content/authors/admin/_index.md",
-    "project_path": "content/authors/admin/_index.md",
+    "id": "EFD65616",
+    "path": "~/GitHub/starter-hugo-academic/content/home/accomplishments.md",
+    "project_path": "content/home/accomplishments.md",
     "type": "markdown",
-    "hash": "2231971690",
+    "hash": "3264636727",
     "contents": "",
     "dirty": false,
-    "created": 1665616331459.0,
+    "created": 1665616949477.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "92,0",
-        "scrollLine": "64"
+        "cursorPosition": "8,7",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1665616471,
+    "lastKnownWriteTime": 1665617109,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665616471751,
+    "last_content_update": 1665617109466,
     "read_only": false,
     "read_only_alternatives": []
 }

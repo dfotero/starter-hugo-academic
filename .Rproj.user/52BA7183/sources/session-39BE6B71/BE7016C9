@@ -1,26 +1,26 @@
 {
-    "id": "D224824C",
-    "path": "~/GitHub/academic-kickstart/content/authors/admin/_index.md",
+    "id": "BE7016C9",
+    "path": "~/GitHub/academic-kickstart/content/home/accomplishments.md",
     "project_path": null,
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1665616346007.0,
+    "created": 1665616991861.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "86,0",
-        "scrollLine": "58"
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1665429634,
+    "lastKnownWriteTime": 1595998819,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665429634,
+    "last_content_update": 1595998819,
     "read_only": false,
     "read_only_alternatives": []
 }
