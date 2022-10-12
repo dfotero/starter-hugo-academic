@@ -24,7 +24,7 @@ abstract: "Preventing chronic diseases is an essential aspect of medical care. T
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Healthcare","Markov decision process","Cardiovascular diseases"]
 categories: []
 featured: false
 
