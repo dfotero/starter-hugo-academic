@@ -22,14 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
   - title: Instructor
-    company: IOE 316 - Introduction to Markov Processes
-    company_url: 'https://bulletin.engin.umich.edu/courses/ioe/'
+    company: University of Michigan
+    company_url: 'https://ioe.engin.umich.edu/'
     company_logo: 
-    location: University of Michigan
+    location: Ann Arbor, MI, USA
     date_start: '2021-08-01'
     date_end: '2021-12-31'
-    description: Stochastic Modeling, Exponential distribution, Poisson Process, Markov Chains, and Dynamic Programming.
+    description: |2-
+        Courses taught:
+        
+        * IOE 316 - Introduction to Markov Processes
 design:
   columns: '2'
 ---
