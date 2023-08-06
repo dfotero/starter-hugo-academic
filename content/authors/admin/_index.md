@@ -50,10 +50,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dfotero@umich.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dotero-leon@mgh.harvard.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/df_otero
+#  link: https://twitter.com/danieloteroleon
 - icon: github
   icon_pack: fab
   link: https://github.com/dfotero
