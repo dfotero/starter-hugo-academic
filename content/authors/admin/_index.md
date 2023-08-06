@@ -17,7 +17,7 @@ organizations:
 - name: Massachusetts General Hospital
   url: "https://mj-lab.mgh.harvard.edu/"
 - name: University of Virginia
-  url: "https://engineering.virginia.edu/rising-scholars-postdoctoral-program"
+  url: "https://engineering.virginia.edu/departments/systems-and-information-engineering"
    
 
 # Short bio (displayed in user profile at end of posts)
@@ -86,11 +86,7 @@ email: ''
 highlight_name: true
 ---
 
-My research interests are generally in the area of operations research and, more specifically, in the area of stochastic models and stochastic dynamic programming with applications to service systems, including health systems and revenue management. My dissertation research is in the area of data-driven models for improving decision-making in the context of cardiovascular disease, with the help of clinical collaborators at the U.S. Department of Veteran Affairs. I am currently analyzing longitudinal electronic medical record data and pharmacy claims data to optimize appointment follow-up policies for patients. My goal is to reduce the risk of cardiovascular disease.
+I joined the [MGH Institute for Technology Assessment (ITA)](https://www.mgh-ita.org/) in August 2023 as a postdoctoral fellow working with Dr. Mohammad Jalali. Also, he is part of the [Rising Scholars Postdoctoral Program](https://engineering.virginia.edu/rising-scholars-postdoctoral-program) at the University of Virginia. I received his Ph.D. in Industrial and Operations Engineering from the University of Michigan working with [Brian T. Denton, Ph.D.](https://btdenton.engin.umich.edu/) and [Mariel S. Lavieri, Ph.D.](http://www-personal.umich.edu/~lavieri/). 
 
-I am an active member of the Institute for Operations Research and the Management Sciences (INFORMS), and I currently serve as the Past-President of the [INFORMS student chapter at the University of Michigan](https://informs.engin.umich.edu/).
-
-Academic advisors:
-
-[Brian T. Denton, Ph.D.](https://btdenton.engin.umich.edu/) and [Mariel S. Lavieri, Ph.D.](http://www-personal.umich.edu/~lavieri/)
+My research interests are generally in operations research and, more specifically, in stochastic models and stochastic dynamic programming applied to healthcare. His research is in data-driven models for improving decision-making in cardiovascular disease, working alongside clinical collaborators at the U.S. Department of Veteran Affairs. His work seeks to develop new frameworks for health equity by considering patients' health disparities in disease prevention policies.
 
