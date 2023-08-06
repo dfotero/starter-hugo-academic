@@ -86,7 +86,7 @@ email: ''
 highlight_name: true
 ---
 
-I joined the [MGH Institute for Technology Assessment (ITA)](https://www.mgh-ita.org/) in August 2023 as a postdoctoral fellow working with [Mohammad Jalali,Ph.D](https://mj-lab.mgh.harvard.edu/). Also, I am part of the [Rising Scholars Postdoctoral Program](https://engineering.virginia.edu/rising-scholars-postdoctoral-program) at the University of Virginia. I received his Ph.D. in Industrial and Operations Engineering from the University of Michigan working with [Brian T. Denton, Ph.D.](https://btdenton.engin.umich.edu/) and [Mariel S. Lavieri, Ph.D.](http://www-personal.umich.edu/~lavieri/)
+I joined the [MGH Institute for Technology Assessment (ITA)](https://www.mgh-ita.org/) in August 2023 as a postdoctoral fellow working with [Mohammad Jalali, Ph.D](https://mj-lab.mgh.harvard.edu/). Also, I am part of the [Rising Scholars Postdoctoral Program](https://engineering.virginia.edu/rising-scholars-postdoctoral-program) at the University of Virginia. I received his Ph.D. in Industrial and Operations Engineering from the University of Michigan working with [Brian T. Denton, Ph.D.](https://btdenton.engin.umich.edu/) and [Mariel S. Lavieri, Ph.D.](http://www-personal.umich.edu/~lavieri/)
 
 My research interests are generally in operations research and, more specifically, in stochastic models and stochastic dynamic programming applied to healthcare. His research is in data-driven models for improving decision-making in cardiovascular disease, working alongside clinical collaborators at the U.S. Department of Veteran Affairs. His work seeks to develop new frameworks for health equity by considering patients' health disparities in disease prevention policies.
 
