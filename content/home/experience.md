@@ -46,7 +46,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
   - title: Instructor on record
 	company: IOE 316: Introduction to Markov Processes
-	company_url: 'https://bulletin.engin.umich.edu/courses/ioe/'
+	company_url: https://bulletin.engin.umich.edu/courses/ioe/
 	location: University of Michigan, Ann Arbor, MI, USA
 	date_start: '2021-08-01'
 	date_end: '2021-12-31'
