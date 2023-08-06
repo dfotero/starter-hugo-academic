@@ -44,9 +44,9 @@ experience:
         Courses taught:
         
         * IIND 2109 - Decision Analysis Tools
-		* IIND 2104 - Stochastic Modeling
-		* IIND 3107 - Marketing Engineering
-		* IIND 3113 - Discrete Event Simulation
+	    * IIND 2104 - Stochastic Modeling
+	    * IIND 3107 - Marketing Engineering
+	    * IIND 3113 - Discrete Event Simulation
 design:
   columns: '2'
 ---
