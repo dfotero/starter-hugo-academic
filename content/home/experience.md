@@ -44,7 +44,6 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-	
   - title = Instructor on record
 	company = IOE 316: Introduction to Markov Processes
 	company_url = 'https://bulletin.engin.umich.edu/courses/ioe/'
