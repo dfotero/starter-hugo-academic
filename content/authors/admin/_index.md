@@ -14,8 +14,8 @@ role: PhD IOE Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan
-  url: "https://ioe.engin.umich.edu/"
+- name: Massachusetts General Hospital
+  url: "https://mj-lab.mgh.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Markov Decision Processes applied to Healthcare and Revenue Management.

@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Accepted: Monitoring policy in the context of preventive treatment of cardiovascular disease (2022)"
+title: "Monitoring policy in the context of preventive treatment of cardiovascular disease (2022)"
 authors: ["Daniel Otero-Leon", "Brian T. Denton","Mariel S. Lavieri", "Jeremy Sussman", "Rodney Hayward"]
 date: 2022-10-12
-doi: ""
+doi: https://doi.org/10.1007/s10729-022-09621-4
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-10-12T19:43:57-04:00
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://rdcu.be/cYmag
 url_video:
 
 # Featured image
