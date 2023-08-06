@@ -45,10 +45,10 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
   - title: Instructor
-    company: University X
-    company_url: ''
+    company: IOE 316 - Introduction to Markov Processes
+    company_url: 'https://bulletin.engin.umich.edu/courses/ioe/'
     company_logo: org-x
-    location: California
+    location: University of Michigan
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
