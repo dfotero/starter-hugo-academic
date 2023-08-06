@@ -10,12 +10,15 @@ last_name: Otero
 superuser: true
 
 # Role/position/tagline
-role: PhD IOE Candidate
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Massachusetts General Hospital
   url: "https://mj-lab.mgh.harvard.edu/"
+- name: University of Virginia
+  url: "https://engineering.virginia.edu/rising-scholars-postdoctoral-program"
+   
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Markov Decision Processes applied to Healthcare and Revenue Management.
