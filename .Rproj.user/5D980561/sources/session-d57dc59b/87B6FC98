@@ -3,7 +3,7 @@
     "path": "~/GitHub/starter-hugo-academic/content/home/projects.md",
     "project_path": "content/home/projects.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "38137658",
     "contents": "",
     "dirty": false,
     "created": 1739294273895.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "33,12",
+        "cursorPosition": "38,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739294908,
+    "lastKnownWriteTime": 1739304601,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739294908162,
+    "last_content_update": 1739304601615,
     "read_only": false,
     "read_only_alternatives": []
 }
