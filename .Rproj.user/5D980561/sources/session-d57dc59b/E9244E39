@@ -3,7 +3,7 @@
     "path": "~/GitHub/starter-hugo-academic/content/home/talks.md",
     "project_path": "content/home/talks.md",
     "type": "markdown",
-    "hash": "4255642660",
+    "hash": "3313822415",
     "contents": "",
     "dirty": false,
     "created": 1739294887511.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,15",
+        "cursorPosition": "5,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739294911,
+    "lastKnownWriteTime": 1739295032,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739294911217,
+    "last_content_update": 1739295032038,
     "read_only": false,
     "read_only_alternatives": []
 }
