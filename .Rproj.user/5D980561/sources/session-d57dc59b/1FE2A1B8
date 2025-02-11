@@ -1,19 +1,19 @@
 {
-    "id": "D9C4782F",
-    "path": "~/GitHub/starter-hugo-academic/content/project/example/index.md",
-    "project_path": "content/project/example/index.md",
+    "id": "1FE2A1B8",
+    "path": "~/GitHub/starter-hugo-academic/content/publication/2015EJOR/index.md",
+    "project_path": "content/publication/2015EJOR/index.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1739292856626.0,
+    "created": 1739294203511.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,7",
-        "scrollLine": "0"
+        "cursorPosition": "60,11",
+        "scrollLine": "45"
     },
     "folds": "",
     "lastKnownWriteTime": 1710441199,
