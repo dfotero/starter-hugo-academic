@@ -1,24 +1,24 @@
 {
-    "id": "B016C619",
-    "path": "~/GitHub/starter-hugo-academic/content/home/featured.md",
-    "project_path": "content/home/featured.md",
+    "id": "62F19AF4",
+    "path": "~/GitHub/starter-hugo-academic/content/project/cardiovasular/index.md",
+    "project_path": "content/project/cardiovasular/index.md",
     "type": "markdown",
-    "hash": "2818392078",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1739295253498.0,
+    "created": 1739304133350.0,
     "source_on_save": false,
-    "relative_order": 9,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710441199,
+    "lastKnownWriteTime": 1739304050,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710441199,
+    "last_content_update": 1739304050,
     "read_only": false,
     "read_only_alternatives": []
 }
