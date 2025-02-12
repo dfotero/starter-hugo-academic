@@ -3,7 +3,7 @@
     "path": "~/GitHub/starter-hugo-academic/content/publication/2022HCMS/index.md",
     "project_path": "content/publication/2022HCMS/index.md",
     "type": "markdown",
-    "hash": "1796661533",
+    "hash": "826690877",
     "contents": "",
     "dirty": false,
     "created": 1739303922736.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "60,19",
-        "scrollLine": "12"
+        "cursorPosition": "65,54",
+        "scrollLine": "11"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739305496,
+    "lastKnownWriteTime": 1739374632,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739305496086,
+    "last_content_update": 1739374632366,
     "read_only": false,
     "read_only_alternatives": []
 }
