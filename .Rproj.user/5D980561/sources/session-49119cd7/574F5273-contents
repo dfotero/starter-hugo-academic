@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Recent Publications
 subtitle: ''
@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 2
+  view: 1
   columns: '2'
 ---
 
