@@ -1,12 +1,12 @@
 {
-    "id": "9AE00D26",
+    "id": "8B09F40C",
     "path": "~/GitHub/starter-hugo-academic/content/publication/3_Spike_analysis/index.md",
     "project_path": "content/publication/3_Spike_analysis/index.md",
     "type": "markdown",
-    "hash": "2963740925",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1740000532587.0,
+    "created": 1740000935136.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1740000856464,
+    "last_content_update": 1740000856,
     "read_only": false,
     "read_only_alternatives": []
 }
