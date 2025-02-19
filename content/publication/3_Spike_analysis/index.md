@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Monitoring policy in the context of preventive treatment of cardiovascular disease (2022)"
-authors: ["Daniel Otero-Leon", "Brian T. Denton","Mariel S. Lavieri", "Jeremy Sussman", "Rodney Hayward"]
-date: 2022-10-12
-doi: https://doi.org/10.1007/s10729-022-09621-4
+title: "Drug Involvement Variations in Overdose Death Spikes: County level Analysis in Massachusetts (Under Review)"
+authors: ["Daniel Otero-Leon", "Hannah Lee","Huiru Dong", "Erin Stringfellow", "Mohammad Jalali"]
+date:
+doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-10-12T19:43:57-04:00
+publishDate: 2024-10-12T19:43:57-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Health Care Management Science"
-publication_short: "HCMS"
+publication: "Working Paper"
+publication_short: "WP"
 
-abstract: "Preventing chronic diseases is an essential aspect of medical care. To prevent chronic diseases, physicians focus on monitoring their risk factors and prescribing the necessary medication. The optimal monitoring policy depends on the patient's risk factors and demographics. Monitoring too frequently may be unnecessary and costly; on the other hand, monitoring the patient infrequently means the patient may forgo needed treatment and experience adverse events related to the disease. We propose a finite horizon and finite-state Markov decision process to define monitoring policies. To build our Markov decision process, we estimate stochastic models based on longitudinal observational data from electronic health records for a large cohort of patients seen in the national U.S. Veterans Affairs health system. We use our model to study policies for whether or when to assess the need for cholesterol-lowering medications. We further use our model to investigate the role of gender and race on optimal monitoring policies."
+abstract: "Background: Communities often experience relatively quiet periods disrupted by sudden surges of drug overdoses, suggesting that the risk of death can change substantially in a short period. Multiple substances are often involved in overdoses, and it is crucial to understand which are more frequently observed in spikes. This study aimed to investigate the involvement of specific substances in overdose spikes at the state and county level in Massachusetts. Methods: We applied a spike detection method to identify daily spikes among 9,915 overdose fatalities in Massachusetts from 2020 to 2023. A day was identified as a spike if the number of overdose deaths was over 2 standard deviations of the adjusted moving average with a lag of 30 days. We used a general linear mixed model to compare the presence of cocaine, psychostimulants, fentanyl, heroin, and prescription opioids in overdose deaths between spike and typical days. Finally, we analyzed and compared the results for eight of the fourteen counties in MA with the highest maximum overdose deaths per day. Results: At the state level from 2020-23, no substances showed significant differences on spike and typical days. Cocaine was more prevalent in multiple counties during spikes. Fentanyl-involved overdose deaths were common on typical days in two counties. Psychostimulants were more prevalent on spike and typical days depending on the county. Heroin and prescription opioids only showed differences in one county each. Conclusion: Our analysis shows high heterogeneity of involved substances in overdose death spikes across counties in Massachusetts. This heterogeneity reinforces the need for localized response strategies. This understanding can guide more targeted local resource allocation and inform strategies to improve public health practices, ultimately aiming to reduce the impact of future overdose spikes."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Healthcare","Markov decision process","Cardiovascular diseases"]
+tags: ["Healthcare","Spike Analysis","Substance abuse"]
 categories: []
 featured: false
 
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://rdcu.be/cYmag
+url_source:
 url_video:
 
 # Featured image
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [cardiovascular]
+projects: [substance-abuse]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
