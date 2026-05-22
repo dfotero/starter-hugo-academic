@@ -1,9 +1,3 @@
-[[redirects]]
-  from = "/*"
-  to = "https://engineering.virginia.edu/faculty/daniel-otero-leon"
-  status = 301
-  force = true
-
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
@@ -25,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+    
+[[redirects]]
+  from = "/*"
+  to = "https://engineering.virginia.edu/faculty/daniel-otero-leon"
+  status = 301
+  force = true
